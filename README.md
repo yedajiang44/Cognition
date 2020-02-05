@@ -1,7 +1,7 @@
 # 宝宝认知
 给咿呀学语的宝宝一丢丢辅助
 
-DEMO下载地址：[yedajiang44.com/api/update/cognition/app-release.apk](yedajiang44.com/api/update/cognition/app-release.apk "demo下载地址"")
+DEMO下载地址：[yedajiang44.com/api/update/cognition/app-release.apk](yedajiang44.com/api/update/cognition/app-release.apk "demo下载地址")
 
 如果需求不够你用的自己拿去改
 
